@@ -3610,5 +3610,4 @@ class VocaBox {
 document.addEventListener('DOMContentLoaded', () => {
     new VocaBox();
 });
-
-
+ 
